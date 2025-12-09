@@ -24,6 +24,8 @@ The model learns by ensuring that if you cycle an image (Photo -> Monet -> Photo
 
 ## Results
 
+![Project Image](results.png)
+
 I check the results by looking at the generated images to see if they look "artsy" and by using a metric called **MiFID**, which measures image quality and diversity.
 
 ## How to Run
